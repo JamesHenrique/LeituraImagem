@@ -39,6 +39,4 @@ Este projeto é uma aplicação simples em Python que utiliza a biblioteca `cust
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
